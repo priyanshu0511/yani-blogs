@@ -7,19 +7,29 @@ The journey of integrating Firebase Authentication was both challenging and rewa
 
 ### Key Learnings:
 Lazy loading blog content for smoother user experience
+
 Leveraging Firebase Authentication for user management
+
 Uploading and displaying user-generated content via Firebase
 
 ### Built With
 React: For building the user interface and handling dynamic components.
+
 TailwindCSS: For styling the platform with a responsive design.
+
 JavaScript: Handling logic and asynchronous operations.
+
 Firebase: Database and authentication service.
 
 ### Features
 Built from scratch with create-react-app
+
 Firebase Authentication allows user registration, login, and secure blog posting.
+
 Blog posts are stored in Firebase with a connection to the posting user’s ID.
+
 Fully responsive design for mobile, tablet, and desktop.
+
 Blog posts are dynamically loaded using React hooks like useEffect().
+
 Users can edit or delete only their own blogs.
