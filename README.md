@@ -21,5 +21,4 @@ The journey of integrating Firebase Authentication was both challenging and rewa
 - Firebase Authentication allows user registration, login, and secure blog posting.
 - Blog posts are stored in Firebase with a connection to the posting user’s ID.
 - Fully responsive design for mobile, tablet, and desktop.
-- Blog posts are dynamically loaded using React hooks like useEffect().
-- Users can edit or delete only their own blogs.
+- Users can delete only their own blogs.
